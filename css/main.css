@@ -1,0 +1,11 @@
+table
+{
+    border:1px dashed #2f644f;
+    margin: auto;
+    width: 50%;
+}
+table p
+{
+    text-align: left;
+    margin: left;
+}
